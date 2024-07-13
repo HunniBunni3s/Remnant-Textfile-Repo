@@ -45,6 +45,8 @@ Guide By: (Insert Authors here)
 
 ## Mods
 
+## Trinkets
+
 ## Relics and Relic Fragments
 
 # Traits
